@@ -27,6 +27,6 @@ img {
 img {
     border-color: blueviolet;
 }
-.pointer {
-    cursor: pointer;
+.custom {
+    cursor: url("C:\Users\ceili\OneDrive\Pictures\—Pngtree—hand tap touch screen gesture_6320233.png"), auto;
 }
