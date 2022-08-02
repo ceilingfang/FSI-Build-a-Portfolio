@@ -28,5 +28,6 @@ img {
     border-color: blueviolet;
 }
 .custom {
-    cursor: url("C:\Users\ceili\OneDrive\Pictures\—Pngtree—hand tap touch screen gesture_6320233.png"), auto;
+    cursor:url("C:\Users\ceili\OneDrive\Pictures\—Pngtree—hand tap touch screen gesture_6320233.png"), auto ;
+    cursor: url(target.png) 15 15, move;
 }
