@@ -21,3 +21,6 @@ img {
 p {
     font-style: italic;
 }
+img {
+    border-radius: 28px;
+}
