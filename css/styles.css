@@ -27,3 +27,6 @@ img {
 img {
     border-color: blueviolet;
 }
+.pointer {
+    cursor: pointer;
+}
