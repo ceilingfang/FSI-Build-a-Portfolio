@@ -27,7 +27,6 @@ img {
 img {
     border-color: blueviolet;
 }
-.custom {
-    cursor:url("./cursor.png"), auto ;
-    cursor: url(target.png) 15 15, move;
+body {
+    cursor: url("../cursor.png") auto;
 }
